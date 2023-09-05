@@ -15,7 +15,7 @@ I am a Full-Stack TS/JS Developer with wide stack of experience on web and deskt
 
 - :revolving_hearts: In love with interesting challenges <small> (especially on Codewars) </small>, learning new things and building neat code.
 
-- :no_entry: My previous account was banned because of my work place. Some repos are migrated here, but plenty of them is history now.
+- :no_entry: My previous account was banned because of my workplace. Some repos are migrated here, but plenty of them is history now.
 
 ---
 
@@ -59,7 +59,6 @@ I am a Full-Stack TS/JS Developer with wide stack of experience on web and deskt
 </div>
 
 [![Codewars Badge](https://www.codewars.com/users/rxMATTE0/badges/large)](https://www.codewars.com/users/rxMATTE0/)
----
 
 ## :clock12: Activity
 
