@@ -5,9 +5,8 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-artemvolodin900000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:artemvolodin900000@gmail.com)](mailto:artemvolodin900000@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-rxmatteo-red?color=white&logo=telegram&logoColor=blue)](https://t.me/rxmatteo)
+[![Telegram Badge](https://img.shields.io/badge/-rxmatteo-red?color=white&logo=telegram&logoColor=blue)](https://t.me/rxmatteo)
 
-[![Gmail Badge](https://www.codewars.com/users/rxMATTE0/badges/large)](https://www.codewars.com/users/rxMATTE0/)
 ### :boy: About Me :
 I am a Full Stack TS/JS Developer with wide stack of experience on web and desktop development.
 - :computer: I’m currently working as a JavaScript software engineer in a big team.
@@ -18,6 +17,12 @@ I am a Full Stack TS/JS Developer with wide stack of experience on web and deskt
 
 - :mailbox:How to reach me:
 
+<div style="display: flex; align-items: center;">
+  <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="Image" style="vertical-align: middle; margin-right: 10px;">
+  <p style="vertical-align: middle; font-size: 20px; font-weight: bold">Codewars</p>
+</div>
+
+[![Codewars Badge](https://www.codewars.com/users/rxMATTE0/badges/large)](https://www.codewars.com/users/rxMATTE0/)
 ---
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rxmatteo&theme=material_palenight&utcOffset=3)
