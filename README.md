@@ -19,7 +19,7 @@ I am a Full Stack TS/JS Developer with wide stack of experience on web and deskt
 
 <div>
   <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="Image" style="vertical-align: middle; margin-right: 10px;">
-  <h2 style="vertical-align: middle;">Codewars</h2>
+  <h2 style="vertical-align: middle; display: inline">Codewars</h2>
 </div>
 
 [![Codewars Badge](https://www.codewars.com/users/rxMATTE0/badges/large)](https://www.codewars.com/users/rxMATTE0/)
