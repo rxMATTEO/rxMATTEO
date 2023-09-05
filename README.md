@@ -46,5 +46,5 @@ I am a Full Stack TS/JS Developer with wide stack of experience on web and deskt
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="deb" alt="deb" width="40" height="40"/>&nbsp;
-  <img src="https://azsoft.com/28565-large_default/jetbrains-phpstorm.jpg" title="phpstorm" alt="phpstorm" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/c/c8/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_PhpStorm.svg/1200px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_PhpStorm.svg.png" title="phpstorm" alt="phpstorm" width="40" height="40"/>&nbsp;
 </div>
