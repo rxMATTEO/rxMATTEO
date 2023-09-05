@@ -17,6 +17,8 @@ I am a Full-Stack TS/JS Developer with wide stack of experience on web and deskt
 
 - :no_entry: My previous account was banned because of my work place. Some repos are migrated here, but plenty of them is history now.
 
+---
+
 ### :toolbox: Languages, Frameworks, Libraries and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="Typescript" width="40" height="40"/>&nbsp;
@@ -47,6 +49,8 @@ I am a Full-Stack TS/JS Developer with wide stack of experience on web and deskt
   <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/c/c8/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_PhpStorm.svg/1200px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_PhpStorm.svg.png" title="PHPstorm" alt="phpstorm" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
 <div>
   <h2 style="vertical-align: middle; display: inline">
   <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="Image" style="vertical-align: middle; margin-right: 10px;">
@@ -56,6 +60,8 @@ I am a Full-Stack TS/JS Developer with wide stack of experience on web and deskt
 
 [![Codewars Badge](https://www.codewars.com/users/rxMATTE0/badges/large)](https://www.codewars.com/users/rxMATTE0/)
 ---
+
+## :clock12: Activity
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rxmatteo&theme=material_palenight&utcOffset=3)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rxmatteo&theme=material_palenight)
