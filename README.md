@@ -8,7 +8,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-rxmatteo-red?color=white&logo=telegram&logoColor=blue)](https://t.me/rxmatteo)
 [![Static Badge](https://img.shields.io/badge/github-_banned-1?color=black)](https://github.com/volodin-artem)
 ### :boy: About Me :
-I am a Full Stack TS/JS Developer with wide stack of experience on web and desktop development.
+I am a Full-Stack TS/JS Developer with wide stack of experience on web and desktop development.
 - :computer: I’m currently working as a JavaScript software engineer in a big team.
 
 - :globe_with_meridians: Creating awesome personal fullstack web applications time-to-time.
