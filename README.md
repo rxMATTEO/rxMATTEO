@@ -17,7 +17,7 @@ I am a Full-Stack TS/JS Developer with wide stack of experience on web and deskt
 
 ---
 
-### :toolbox: Languages, Frameworks, Libraries and Tools :
+### Languages, Frameworks, Libraries and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
