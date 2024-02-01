@@ -8,7 +8,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-rxmatteo-red?color=white&logo=telegram&logoColor=blue)](https://t.me/rxmatteo)
 ### About Me :
 I am a Full-Stack TS/JS Developer with wide stack of experience on web and desktop development.
-- :globe_with_meridians: Creating awesome personal fullstack web applications time-to-time.
+- :globe_with_meridians: Working on cool projects using Nuxt 2/3 and Vue with Typescript. Creating awesome personal fullstack web applications time-to-time.
 
 - :revolving_hearts: In love with interesting challenges <small> (especially on Codewars) </small>, learning new things and building neat code.
 
@@ -57,8 +57,8 @@ I am a Full-Stack TS/JS Developer with wide stack of experience on web and deskt
 [![Codewars Badge](https://www.codewars.com/users/rxMATTE0/badges/large)](https://www.codewars.com/users/rxMATTE0/)
 
 ## :gem: 2024 GOALS
-1. 7.5k contributions
-2. 365 days streak
+1. **7.5k** contributions
+2. **365 days** streak
 
 ## :clock12: Activity
 
