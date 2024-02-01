@@ -59,6 +59,7 @@ I am a Full-Stack TS/JS Developer with wide stack of experience on web and deskt
 ## :gem: 2024 GOALS
 1. **7.5k** contributions
 2. **365 days** streak
+3. **150** completed challenges on Codewars (including 67 already solved)
 
 ## :clock12: Activity
 
