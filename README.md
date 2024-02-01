@@ -6,14 +6,13 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-artemvolodin900000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:artemvolodin900000@gmail.com)](mailto:artemvolodin900000@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-rxmatteo-red?color=white&logo=telegram&logoColor=blue)](https://t.me/rxmatteo)
-[![Static Badge](https://img.shields.io/badge/github-_banned-1?color=black)](https://github.com/volodin-artem)
 ### About Me :
 I am a Full-Stack TS/JS Developer with wide stack of experience on web and desktop development.
 - :globe_with_meridians: Creating awesome personal fullstack web applications time-to-time.
 
 - :revolving_hearts: In love with interesting challenges <small> (especially on Codewars) </small>, learning new things and building neat code.
 
-- :no_entry: My previous account was banned because of my workplace. Some repos are migrated here, but plenty of them is history now.
+- :no_entry: No chill. Just work.
 
 ---
 
@@ -44,7 +43,6 @@ I am a Full-Stack TS/JS Developer with wide stack of experience on web and deskt
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSSQl" alt="MSSQl" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt="dotnet" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="deb" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/c/c8/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_PhpStorm.svg/1200px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_PhpStorm.svg.png" title="PHPstorm" alt="phpstorm" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -57,6 +55,10 @@ I am a Full-Stack TS/JS Developer with wide stack of experience on web and deskt
 </div>
 
 [![Codewars Badge](https://www.codewars.com/users/rxMATTE0/badges/large)](https://www.codewars.com/users/rxMATTE0/)
+
+## :gem: 2024 GOALS
+1. 7.5k contributions
+2. 365 days streak
 
 ## :clock12: Activity
 
