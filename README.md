@@ -63,7 +63,7 @@ I am a Full-Stack TS/JS Developer with wide stack of experience on web and deskt
 
 ## :clock12: Activity
 
-![]([https://streak-stats.demolab.com/?user=rxMATTEO](https://streak-stats.demolab.com/?user=rxMATTEO&theme=catppuccin-mocha))
+![](https://streak-stats.demolab.com/?user=rxMATTEO&theme=catppuccin-mocha)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rxmatteo&theme=material_palenight&utcOffset=3)
